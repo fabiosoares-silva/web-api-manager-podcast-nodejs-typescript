@@ -1,0 +1,86 @@
+[
+	{
+		"podcastName": "HipstersPontoTube",
+		"episode": "Acessibilidade Web com Charles Assunção | #HipstersPontoTube",
+		"videoId": "gnO_6NDfQHI",
+		"category": [
+			"dica técnica"
+		]
+	},
+	{
+		"podcastName": "HipstersPontoTube",
+		"episode": "Os MELHORES livros de tecnologia para ler em programação com Roberta Arcoverde | #HipstersPontoTube",
+		"videoId": "RvWQQRjz1Pw",
+		"category": [
+			"livros",
+			"livros"
+		]
+	},
+	{
+		"podcastName": "FabioSilva",
+		"episode": "Os MELHORES livros de tecnologia para ler em programação com Roberta Arcoverde | #HipstersPontoTube",
+		"videoId": "RvWQQRjz1Pw",
+		"category": [
+			"livros",
+			"livros"
+		]
+	},
+	[
+		{
+			"podcastName": "HipstersPontoTube",
+			"episode": "Acessibilidade Web com Charles Assunção | #HipstersPontoTube",
+			"videoId": "gnO_6NDfQHI",
+			"category": [
+				"dica técnica"
+			]
+		},
+		{
+			"podcastName": "HipstersPontoTube",
+			"episode": "Orientação a objetos com Roberta Arcoverde | #HipstersPontoTube",
+			"videoId": "jpuJ1qrluoU",
+			"category": [
+				"ciência e tecnologia"
+			]
+		},
+		{
+			"podcastName": "HipstersPontoTube",
+			"episode": "Como é o trabalho remoto? | #HipstersPontoTube",
+			"videoId": "V0FuAukFSzc",
+			"category": [
+				"ciência e tecnologia"
+			]
+		},
+		{
+			"podcastName": "HipstersPontoTube",
+			"episode": "O que é Data Science? | #HipstersPontoTube",
+			"videoId": "5b9Z8toVaAU",
+			"category": [
+				"ciência e tecnologia"
+			]
+		},
+		{
+			"podcastName": "HipstersPontoTube",
+			"episode": "Como posso estudar melhor? | #HipstersPontoTube",
+			"videoId": "Is6c9KSGCbk",
+			"category": [
+				"ciência e tecnologia"
+			]
+		},
+		{
+			"podcastName": "HipstersPontoTube",
+			"episode": "Guia de carreira Front-end | #HipstersPontoTube",
+			"videoId": "fpth65ts3cw",
+			"category": [
+				"ciência e tecnologia"
+			]
+		},
+		{
+			"podcastName": "HipstersPontoTube",
+			"episode": "Guia de carreira DATA SCIENCE | #HipstersPontoTube",
+			"videoId": "7KhaiCC3fJQ",
+			"category": [
+				"ciência e tecnologia"
+			]
+		}
+	]
+]
